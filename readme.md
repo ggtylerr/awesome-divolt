@@ -7,17 +7,19 @@
 
 <!-- subtitle -->
 
-An awesome list of things for the chat application Revolt.
+An awesome list of things for the chat application Divolt.
 
 <!-- image -->
 
-<a href="https://revolt.chat" target="_blank" rel="noopener noreferrer">
-  <img src="https://nightly.revolt.chat/assets/logo_round.png" height="240" />
+<a href="https://divolt.xyz" target="_blank" rel="noopener noreferrer">
+  <img src="https://divolt.xyz/assets/logo_round.png" height="240" />
 </a>
 
 <!-- description -->
 
-Revolt is a user-first, privacy-friendly chat platform built with modern web technologies.
+Divolt is a self-hosted instance of Revolt - a user-first, privacy-friendly chat platform built with modern web technologies.
+  
+This list is a fork of [awesome-revolt](https://github.com/insertish/awesome-revolt) for stuff that's compatible with it.
 
 </div>
 
@@ -28,7 +30,7 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [💻 API Libraries](#-api-libraries)
 - [🤖 Bots](#-bots)
 - [🎨 Themes](#-themes)
-- [🔧 Third-party Clients](#-third-party-clients)
+- [🔧 Clients](#-clients)
 
 <!-- CONTENT -->
 
@@ -68,15 +70,20 @@ Revolt is a user-first, privacy-friendly chat platform built with modern web tec
 - [Official Theme Repository](https://gitlab.insrt.uk/revolt/community/themes) - Themes provided by the Revolt community.
 - [Revolt Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme) - Discord-like theme by ThatTonybo.
 
-## 🔧 Third-party Clients
+## 🔧 Clients
 
-> These are not officially endorsed. **Proceed at your own risk.**
+> Some of these require rebuilding / code changes for Divolt. **Proceed at your own risk.**
 
-> Since this isn't common knowledge, please note that <https://app.revolt.chat> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
+> Since this isn't common knowledge, please note that <https://divolt.xyz> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
 
+- [Divolt Desktop](https://github.com/ggtylerr/divolt-desktop) - A fork of Revolt Desktop, rebuilt for Divolt.
+- [Divolt Android](https://github.com/ggtylerr/divolt-android) - A fork of Revolt Android TWA, rebuilt for Divolt.
+- [Mobile app: DVMob](https://github.com/ggtylerr/dvmob) - A fork of RVMob, an Android / iOS app, rebuilt for Divolt.
+- [HTML: Reduct](https://dorudolasu.github.io/Reduct/) - A Revolt client made in a single HTML file (and held by duct tape.) Made for older browsers.
+- [HTML: Retaped](https://github.com/ERROR-404-NULL-NOT-FOUND/Retaped) - A fork of Retaped with additional features.
+- [Desktop: Retaped-desktop](https://github.com/ERROR-404-NULL-NOT-FOUND/Retaped-desktop) - A version of Retaped in GTK.
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
 - [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
-- [(Endorsed) Mobile App: rvmob](https://github.com/revoltchat/rvmob) - App for Android and iOS made with React Native.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 
 ### Discontinued Projects
