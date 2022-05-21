@@ -79,17 +79,20 @@ This list is a fork of [awesome-revolt](https://github.com/insertish/awesome-rev
 
 ## 🔧 Clients
 
-> Some of these require rebuilding / code changes for Divolt. **Proceed at your own risk.**
-
 > Since this isn't common knowledge, please note that divolt.xyz can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
 
 - [Divolt Desktop](https://github.com/ggtylerr/divolt-desktop) - A fork of Revolt Desktop, rebuilt for Divolt.
 - [Divolt Android](https://github.com/ggtylerr/divolt-android) - A fork of Revolt Android TWA, rebuilt for Divolt.
 - [Mobile app: DVMob](https://github.com/ggtylerr/dvmob) - A fork of RVMob, an Android / iOS app, rebuilt for Divolt.
+- [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform. (Can be configured for Divolt)
+
+### Non-ported clients
+
+> These clients are not directly supported for Divolt, however if you know how to, you can configure the source code to make it compatible.
+
 - [HTML: Reduct](https://dorudolasu.github.io/Reduct/) - A Revolt client made in a single HTML file (and held by duct tape.) Made for older browsers.
 - [HTML: Retaped](https://github.com/ERROR-404-NULL-NOT-FOUND/Retaped) - A fork of Retaped with additional features.
 - [Desktop: Retaped-desktop](https://github.com/ERROR-404-NULL-NOT-FOUND/Retaped-desktop) - A version of Retaped in GTK.
-- [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform.
 - [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
 
