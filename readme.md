@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ggtylerr/awesome-divolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/ggtylerr/awesome-divolt/actions/workflows/lint.yaml)
+# Awesome Divolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ggtylerr/awesome-divolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/ggtylerr/awesome-divolt/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
