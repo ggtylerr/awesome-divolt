@@ -27,12 +27,19 @@ This list is a fork of [awesome-revolt](https://github.com/insertish/awesome-rev
 
 ## Contents
 
+- [💬 Servers](#-servers)
 - [💻 API Libraries](#-api-libraries)
 - [🤖 Bots](#-bots)
 - [🎨 Themes](#-themes)
 - [🔧 Clients](#-clients)
 
 <!-- CONTENT -->
+
+## 💬 Servers
+
+- [FMHY](https://fmhy.divolt.xyz) - Free Media, Heck Yeah!
+- [CrackSupport](https://cracksupport.divolt.xyz) - A community dedicated to games/software support
+- [M4D](https://m4d.divolt.xyz) - Movies4Discord Backup
 
 ## 💻 API Libraries
 
