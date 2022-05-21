@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/insertish/awesome-revolt/actions/workflows/lint.yaml)
+# Awesome Revolt [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/ggtylerr/awesome-divolt/actions/workflows/lint.yaml/badge.svg?branch=master)](https://github.com/ggtylerr/awesome-divolt/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
@@ -74,7 +74,7 @@ This list is a fork of [awesome-revolt](https://github.com/insertish/awesome-rev
 
 > Some of these require rebuilding / code changes for Divolt. **Proceed at your own risk.**
 
-> Since this isn't common knowledge, please note that <https://divolt.xyz> can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
+> Since this isn't common knowledge, please note that divolt.xyz can be installed by navigating to it in your mobile browser and pressing "install app" when prompted or in your browser's page dropdown.
 
 - [Divolt Desktop](https://github.com/ggtylerr/divolt-desktop) - A fork of Revolt Desktop, rebuilt for Divolt.
 - [Divolt Android](https://github.com/ggtylerr/divolt-android) - A fork of Revolt Android TWA, rebuilt for Divolt.
