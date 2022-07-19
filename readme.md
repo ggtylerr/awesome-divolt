@@ -21,6 +21,13 @@ Divolt is a self-hosted instance of Revolt - a user-first, privacy-friendly chat
   
 This list is a fork of [awesome-revolt](https://github.com/insertish/awesome-revolt) for stuff that's compatible with it.
 
+# PSA
+
+On the July 13th, Divolt's internal database had to be reverted back to an old backup (about a month old) which means the majority of
+data has been lost. If you can't login, you'll probably have to settle with a new account.
+
+If the page won't load at all, try disabling your adblocker or using incognito.
+
 </div>
 
 <!-- TOC -->
@@ -38,8 +45,8 @@ This list is a fork of [awesome-revolt](https://github.com/insertish/awesome-rev
 ## 💬 Servers
 
 - [FMHY](https://fmhy.divolt.xyz) - Free Media, Heck Yeah!
-- [CrackSupport](https://cracksupport.divolt.xyz) - A community dedicated to games/software support.
 - [M4D](https://m4d.divolt.xyz) - Movies4Discord Backup.
+- [CrackSupport](https://cracksupport.divolt.xyz) - A community dedicated to games/software support. ***(Note: Not yet set up after revert.)***
 
 ## 💻 API Libraries
 
