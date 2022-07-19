@@ -54,10 +54,12 @@ This list is a fork of [awesome-revolt](https://github.com/insertish/awesome-rev
 - [Node.js/Deno: Revolt.io](https://github.com/revolt-io/revolt.io) - JavaScript library for Revolt.
 - [Node.js: Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
 - [Node.js: Revoltx](https://github.com/kaname-png/revoltx) - RevoltX is a framework for creating Revolt bots, powered by the @sapphire/framework Arguments and Preconditions system.
+- [Node.js: Reject.js](https://github.com/revoltrejectorg/reject.js) - Compatibility layer for Discord.js bots to port themselves to Revolt.js.
 - [Python: pyrevolt](https://github.com/GenericNerd/pyrevolt) - A library to wrap the Revolt API, made to be easy-to-use but powerful and feature rich.
 - [Python: Voltage](https://github.com/EnokiUN/voltage) - A simple asynchronous pythonic wrapper for the revolt api.
 - [Python: defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
 - [Python: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
+- [Python: Luster](https://github.com/nerdguyahmad/luster) - Modern Python library for Revolt.chat API.
 - [Rust: Robespierre](https://github.com/dblanovschi/robespierre) - Rust library for Revolt.
 - [Rust: Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
 - [Rust: Ruvolt](https://github.com/Arthur-Damasceno/ruvolt) - Revolt API wrapper for create bots.
