@@ -21,12 +21,14 @@ Divolt is a self-hosted instance of Revolt - a user-first, privacy-friendly chat
   
 This list is a fork of [awesome-revolt](https://github.com/insertish/awesome-revolt) for stuff that's compatible with it.
 
-# PSA
+```
+PSA
 
-On the July 13th, Divolt's internal database had to be reverted back to an old backup (about a month old) which means the majority of
-data has been lost. If you can't login, you'll probably have to settle with a new account.
+On the July 13th, Divolt's internal database had to be reverted back to an old backup (about a month old) which means 
+the majority of data has been lost. If you can't login, you'll probably have to settle with a new account.
 
 If the page won't load at all, try disabling your adblocker or using incognito.
+```
 
 </div>
 
