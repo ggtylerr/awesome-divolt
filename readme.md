@@ -52,19 +52,17 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 
 ## 💻 API Libraries
 
+> To make these compatible, see [API Configuration.](api_configuration.md)
+
 - [Node.js: revolt.js](https://www.npmjs.com/package/revolt.js) - Official JavaScript library for Revolt.
 - [C#: Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
-- [C#: Revolution](https://github.com/li223/Revolution) - Yet another .Net Wrapper for Revolt.
 - [C#: RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
 - [Dart: Volt](https://github.com/volt-framework/volt) - Wrapper around Revolt Bot API for Dart.
-- [Go: Revoltgo](https://github.com/5elenay/revoltgo) - Go library for Revolt.
 - [Java: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
-- [Kotlin: RevoltKt](https://github.com/XuaTheGrate/RevoltKt) - Pure-Kotlin library for bots to interface with Revolt.
 - [Node.js/Deno: Revolt.io](https://github.com/revolt-io/revolt.io) - JavaScript library for Revolt.
 - [Node.js: Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
 - [Node.js: Revoltx](https://github.com/kaname-png/revoltx) - RevoltX is a framework for creating Revolt bots, powered by the @sapphire/framework Arguments and Preconditions system.
 - [Node.js: Reject.js](https://github.com/revoltrejectorg/reject.js) - Compatibility layer for Discord.js bots to port themselves to Revolt.js.
-- [Python: pyrevolt](https://github.com/GenericNerd/pyrevolt) - A library to wrap the Revolt API, made to be easy-to-use but powerful and feature rich.
 - [Python: Voltage](https://github.com/EnokiUN/voltage) - A simple asynchronous pythonic wrapper for the revolt api.
 - [Python: defectio](https://github.com/Darkflame72/defectio) - Asyncronous and typed Python library for Revolt.
 - [Python: Revolt.py](https://github.com/Zomatree/revolt.py) - Python library for Revolt.
