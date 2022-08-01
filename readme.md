@@ -48,11 +48,11 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 
 - [FMHY](https://fmhy.divolt.xyz) - Free Media, Heck Yeah!
 - [M4D](https://m4d.divolt.xyz) - Movies4Discord Backup.
-- [SlavArt](https://slavart.divolt.xyz/) - Искусство (HQ Music)
-- [CrackHub](https://crackhub.divolt.xyz/) - Software cracking
-- [Gamesdrive](https://gamesdrive.divolt.xyz/) - gamin'
+- [SlavArt](https://slavart.divolt.xyz/) - Искусство (HQ Music.)
+- [CrackHub](https://crackhub.divolt.xyz/) - Software cracking.
+- [Gamesdrive](https://gamesdrive.divolt.xyz/) - gamin'.
 - [CrackSupport](https://cracksupport.divolt.xyz) - A community dedicated to games/software support. ***(Note: Not yet set up after revert.)***
-- One hidden server, if you're worthy, you'll find it ;)
+- One hidden server, if you're worthy, you'll find it. ;)
 
 ## 💻 API Libraries
 
