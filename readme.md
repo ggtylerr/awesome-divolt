@@ -52,7 +52,7 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 - [CrackHub](https://crackhub.divolt.xyz/) - Software cracking.
 - [Gamesdrive](https://gamesdrive.divolt.xyz/) - Gamin'.
 - [NBG](https://divolt.xyz/invite/BM9hvM0E) - No Bucks Given.
-- [Project Black Pearl](https://pbp.divolt.xyz] - Server for [PBP](https://github.com/ProjectBlackPearl/project_black_pearl/), a FOSS project that aims to unify game sources in one place.
+- [Project Black Pearl](https://pbp.divolt.xyz) - Server for [PBP](https://github.com/ProjectBlackPearl/project_black_pearl/), a FOSS project that aims to unify game sources in one place.
 - CrackSupport - A community dedicated to games/software support. ***(Note: Not yet set up after revert.)***
 - One hidden server, if you're worthy, you'll find it. ;)
 
