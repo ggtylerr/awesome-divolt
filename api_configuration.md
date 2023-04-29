@@ -16,11 +16,13 @@
 - [Revolt.rs](#revoltrs)
 - [Ruvolt](#ruvolt)
 - [RevoltKit](#revoltkit)
+- [Revolt Uploader](#revolt-uploader)
 - Not Compatible:
   - [Revolution](#revolution)
   - [Revoltgo](#revoltgo)
   - [Revoltkt](#revoltkt)
   - [pyrevolt](#pyrevolt)
+- [TODO](#%EF%B8%8F-todo)
 
 ## [revolt.js](https://www.npmjs.com/package/revolt.js)
 ```js
@@ -234,16 +236,35 @@ let clientAPI = RevoltAPIClient
 clientAPI.basePath = "https://api.divolt.xyz"
 ```
 
+## [Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader)
+```js
+const { Client } = require("revolt.js");
+const Uploader = require("revolt-uploader");
+let client = new Client();
+
+client.configuration = {} // see revolt.js
+const uploader = new Uploader(client);
+```
+
 # ☠️ Not Compatible
 
 ## [Revolution](https://github.com/li223/Revolution)
 See ["Revolt API 0.5.3 Support"](https://github.com/li223/Revolution/issues/1)
 
 ## [Revoltgo](https://github.com/5elenay/revoltgo)
-See ["URLs are constant"](https://github.com/5elenay/revoltgo/issues/10)
+See ["URLs are constant"](https://github.com/5elenay/revoltgo/issues/10). Project also appears to be dead.
 
 ## [Revoltkt](https://github.com/XuaTheGrate/RevoltKt)
 Dead project, last commit was before API 0.5.3 which had breaking changes. Also the template doesn't even work and I was not able to make it work.
 
 ## [pyrevolt](https://github.com/GenericNerd/pyrevolt)
 No current way to set API / WS URL. I may be incorrect though - the docs are auto-generated garbage and PyCharm didn't help. Also note that this is in Alpha.
+
+# ⚒️ TODO
+
+* Add and test the following:
+  - [Revoice.js](https://github.com/ShadowLp174/revoice.js)
+    - Note: Project is currently paused due to Revolt's Vortex rewrite
+  - [TurnipBeams](https://github.com/lexisother/TurnipBeams)
+  - [RevKit](https://github.com/Revolt-Unofficial-Clients/revkit)
+  - [revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api)
