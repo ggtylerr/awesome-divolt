@@ -76,20 +76,29 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 - [Rust: Revolt.rs](https://github.com/AkiaCode/revolt.rs) - An API wrapper for Revolt.
 - [Rust: Ruvolt](https://github.com/Arthur-Damasceno/ruvolt) - Revolt API wrapper for create bots.
 - [Swift: RevoltKit](https://github.com/3PIV/RevoltKit) - An API wrapper for Swift.
+- [Node.js: Revoice.js](https://github.com/ShadowLp174/revoice.js) - A library for interacting with voice channels on Revolt.
+- [Node.js: TurnipBeams](https://github.com/lexisother/TurnipBeams) - A declarative, structure-agnostic, TypeScript-centric command handler for revolt.js.
+- [Node.js: Revolt Uploader](https://github.com/ShadowLp174/revolt-uploader) - A utility package that allows you to add attachments to messages.
+- [Node.js: RevKit](https://github.com/Revolt-Unofficial-Clients/revkit) - A typed, class-oriented library for interacting with Revolt. Also includes additional packages for voice channels and command handler.
+- [COBOL: revolt-cobol-api](https://github.com/kabylake1/revolt-cobol-api) - A COBOL API wrapper for making Revolt bots.
 
 ## 🤖 Bots
 
+- [Bolt](https://github.com/williamhorning/bolt) - A cross-platform bot that bridges Discord, Guilded, and Revolt.
 - [DiscordBridge](https://github.com/Jan0660/Taco/tree/senpai/DiscordBridge) - Temporary Discord bridge until first-party support is added.
 - [PhotoBox](https://github.com/PhotoBoxPW/PhotoBoxRevolt) - A bot that creates and morphs images into fun memes or with crazy filters.
 - [Taco](https://github.com/Jan0660/Taco) - Multi-purpose bot, includes Discord bridge.
-- [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 - [TelegramBridge](https://github.com/o8z/TelegramBridge) - Telegram <==> Revolt bridge.
-- [Remix](https://github.com/remix-bot/revolt) - Multi-purpose bot, includes Fun, Meme, Games.
+- [Remix](https://github.com/remix-bot/revolt) - An advanced music bot that supports YouTube, Spotify, and Soundcloud - All the power just a click away ;).
 - [revcord](https://github.com/mayudev/revcord) - Discord bridge with setup through commands. Supports edits, images, embeds etc. 
+- [PHLASH](https://github.com/itzTheMeow/revolt-phlash) - A (mostly music) bot with support for music from YouTube/SoundCloud/MP3s + more, various audio filters, and some other helpful commands.
+- [ChatGPT](https://github.com/NoLogicAlan/ChatGPT) - Introducing ChatGPT Bot - the ultimate AI-powered chat companion for your Revolt server!.
+- [Revolt.js.template](https://github.com/sympact06/revolt.js.template) - A bot template made with OOP rules and advanced error handling and EmbedBuilder. You can make a bot without knowning the whole revolt.js documentation with it.
+- [revolt.guide](https://revolt.guide) - A guide on how to create your own Revolt Bot with revolt.js.
 
 ## 🎨 Themes
 
-- [Official Theme Repository](https://gitlab.insrt.uk/revolt/community/themes) - Themes provided by the Revolt community.
+- [Official Theme Repository](https://github.com/revoltchat/themes) - Themes provided by the Revolt community.
 - [Revolt Discord Theme](https://github.com/ThatTonybo/Revolt-Discord-Theme) - Discord-like theme by ThatTonybo.
 
 ## 🔧 Clients
@@ -110,10 +119,12 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 - [Desktop: Retaped-desktop](https://github.com/ERROR-404-NULL-NOT-FOUND/Retaped-desktop) - A version of Retaped in GTK.
 - [TUI: Revolt.Cli: TUI client for Revolt](https://github.com/Jan0660/Revolt.Cli) - Terminal.Gui based CLI client writen in C#.
 - [Mobile App: Unoffical Revolt Android App](https://github.com/ashpotter/revolt-mobile) - Revolt Android app based on ASW.
+- [Svolte](https://github.com/itzTheMeow/revolt-svolte) - Revolt client made in Svelte with better mobile/PWA support and QOL features.
 
 ### Discontinued Projects
 
 - [Mobile App: Rebar](https://github.com/jan-software-foundation/rebar) - App for Android and iOS written with Flutter.
+- [Disbridge](https://github.com/itzTheMeow/Disbridge) - A Revolt - Discord bridge for people that have friends who won't switch.
 
 <!-- END CONTENT -->
 
