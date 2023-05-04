@@ -54,7 +54,7 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 - [NBG](https://divolt.xyz/invite/BM9hvM0E) - No Bucks Given.
 - [Project Black Pearl](https://pbp.divolt.xyz) - Server for [PBP](https://github.com/ProjectBlackPearl/project_black_pearl/), a FOSS project that aims to unify game sources in one place.
 - CrackSupport - A community dedicated to games/software support. ***(Note: Not yet set up after revert.)***
-- [iDoISO + Nebula's Essence](https://isoneb.divolt.xyz] - ISO and Nebula releases.
+- [iDoISO + Nebula's Essence](https://isoneb.divolt.xyz) - ISO and Nebula releases.
 - One hidden server, if you're worthy, you'll find it. ;)
 
 ## 💻 API Libraries
