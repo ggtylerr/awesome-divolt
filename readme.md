@@ -109,7 +109,7 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 
 - [Divolt Desktop](https://github.com/ggtylerr/divolt-desktop) - A fork of Revolt Desktop, rebuilt for Divolt.
 - [Divolt Android](https://github.com/ggtylerr/divolt-android) - A fork of Revolt Android TWA, rebuilt for Divolt.
-- [Mobile app: DVMob](https://github.com/ggtylerr/dvmob) - A fork of RVMob, an Android / iOS app, rebuilt for Divolt.
+- [Mobile app: RVMob](https://github.com/revoltchat/rvmob) - An Android app made in React Native, currently in Beta. (Instance support is currently only in the latest commits, [you need to get it from automatic builds.](https://github.com/revoltchat/rvmob/actions))
 - [Minecraft: Unofficial Revolt for Fabric](https://rvf.infi.sh/) - Minecraft-based client for the Revolt chat platform. (Can be configured for Divolt)
 
 ### Non-ported clients
