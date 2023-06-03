@@ -55,7 +55,7 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 - [Project Black Pearl](https://pbp.divolt.xyz) - Server for [PBP](https://github.com/ProjectBlackPearl/project_black_pearl/), a FOSS project that aims to unify game sources in one place.
 - CrackSupport - A community dedicated to games/software support. ***(Note: Not yet set up after revert.)***
 - [iDoISO + Nebula's Essence](https://isoneb.divolt.xyz) - ISO and Nebula releases.
-- [NQRARBG](nqrarbg.divolt.xyz) - A clone and successor to RARBG (currently under development.)
+- [NQRARBG](https://nqrarbg.divolt.xyz) - A clone and successor to RARBG (currently under development.)
 - One hidden server, if you're worthy, you'll find it. ;)
 
 ## 💻 API Libraries
