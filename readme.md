@@ -66,6 +66,8 @@ If the page won't load at all, try disabling your adblocker or using incognito.
 - [C#: Revolt.NET](https://www.nuget.org/packages/Revolt.Net/) - The .NET library for Revolt.
 - [C#: RevoltSharp](https://github.com/xXBuilderBXx/RevoltSharp) - C# lib with all the events and easy to use design.
 - [Dart: Volt](https://github.com/volt-framework/volt) - Wrapper around Revolt Bot API for Dart.
+- [Go: Revoltgo](https://github.com/5elenay/revoltgo) - Go library for Revolt.
+- [Go: revolt.go](https://github.com/ben-forster/revolt) - Go wrapper for Revolt.
 - [Java: Java Revolt Bridge](https://github.com/jrvlt/jrv) - Java client library for interacting with the Revolt chat platform.
 - [Node.js/Deno: Revolt.io](https://github.com/revolt-io/revolt.io) - JavaScript library for Revolt.
 - [Node.js: Voltare](https://github.com/Dexare/Voltare) - Typed, modular and extendable Revolt bot framework.
